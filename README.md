@@ -18,5 +18,6 @@
 3) Bert
 
 Оценим полученные результаты:
+
 ![image](https://github.com/NastiaSmirnova/test_task/assets/47783751/b8051608-1807-4010-bda0-edfcb4b6e597)
 
